@@ -1,0 +1,25 @@
+.wrapper {
+	.content-wrapper {
+		.content {
+			.box.box-info {
+				.box-body {
+					.list-group {
+						li{
+							border: none;
+							a {
+								font-size: 16px;
+								/* color: black; */
+							}
+							&:hover {
+								background: #d9edf7;
+								a {
+									color: #00c0ef;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

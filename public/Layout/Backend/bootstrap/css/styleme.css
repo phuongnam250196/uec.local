@@ -1,0 +1,11 @@
+.wrapper .content-wrapper .content .box.box-info .box-body .list-group li {
+  border: none; }
+  .wrapper .content-wrapper .content .box.box-info .box-body .list-group li a {
+    font-size: 16px;
+    /* color: black; */ }
+  .wrapper .content-wrapper .content .box.box-info .box-body .list-group li:hover {
+    background: #d9edf7; }
+    .wrapper .content-wrapper .content .box.box-info .box-body .list-group li:hover a {
+      color: #00c0ef; }
+
+/*# sourceMappingURL=styleme.css.map */
